@@ -14,7 +14,11 @@ the project offer the ability  of partitioning a list of object into a list of s
     2. `Partitioning a list using  a **recusrsive mechanism**`
     
 ## Installation
-in order to install the Project you need to make sure that maven is well installed :[ https://maven.apache.org/install.html ]
+
+in order to install the Project 
+You nedd to Install Java 
+
+you need to make sure that maven is well installed :[ https://maven.apache.org/install.html ]
 
 Add maven to path environment variable 
 
@@ -26,16 +30,18 @@ Install library in maven repository with test execution :  mvn clean install
 
 ## Usage
 import the library into your project and call the paritition method 
-the partition method need a list of objects ( no specific object type required)  and sublist size .
+
+the partition method needs : 
+1. list of objects ( no specific object type required)  
+2. sublist size .
 Please refer to the javadoc for more information about the method requirements.
 
 ## Contributing
 1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## History
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Submit a pull request
 
 ## License
 The project is distributed under GNU GPLv3  license
