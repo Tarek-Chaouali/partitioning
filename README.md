@@ -4,6 +4,7 @@
  <snippet>
   <content>
 # List-Partitioning
+
 the project offer the ability  of partitioning a list of object into a list of sublists  based on a sublist size parameter 
 
  there are two approach on the list partitioning :
